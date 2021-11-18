@@ -484,4 +484,4 @@ client.on('clickButton', async (button) => {
             }, 4000)
           }
         })
-        client.login("OTEwOTY2MTkzMzEyMTA0NDY4.YZahYQ.tuLZC6ycM36R-Teskf5pdJ0vCAM");
+        client.login("token");
